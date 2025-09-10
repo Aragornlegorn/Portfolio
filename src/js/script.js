@@ -8,7 +8,7 @@ loadProjects();
 // Fonction
 // Charger tous les projets depuis projects.json
 function loadProjects() {
-    fetch('./src/js/projects.json')
+    fetch('projects.json')
         .then(function(response){
             return response.json();
         })
