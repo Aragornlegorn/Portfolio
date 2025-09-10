@@ -19,7 +19,7 @@ function loadProjects() {
                 out += `
                     <div class="case-Project">
                         <h3>${project.name}</h3>
-                        <img src="${project.image}" alt="${project.name}" class="rounded-lg mb-3"/>
+                        <img src="${project.image}" alt="${project.name}"/>
                         <p>${project.description}</p>
                     </div>
                 `;
