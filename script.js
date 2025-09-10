@@ -17,9 +17,11 @@ function loadProjects() {
             let out = "";
             for(let project of projects){
                 out += `
-                    <div class="case-Project">
+                    <div class="card-Project">
                         <h3>${project.name}</h3>
-                        <img src="${project.image}" alt="${project.name}"/>
+                        <div class="project-img-container">
+                            <img src="${project.image}" alt="${project.name}"/>
+                        </div>
                         <p>${project.description}</p>
                     </div>
                 `;
