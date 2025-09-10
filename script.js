@@ -19,10 +19,10 @@ function loadProjects() {
                 out += `
                     <div class="card-Project">
                         <h3>${project.name}</h3>
-                        <div class="project-img-container">
+                        <div class="card-img-container">
                             <img src="${project.image}" alt="${project.name}"/>
                         </div>
-                        <p>${project.description}</p>
+                        <p class="description">${project.description}</p>
                     </div>
                 `;
             }
