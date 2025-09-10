@@ -2,7 +2,7 @@
     {
         "name": "FPS Multijoueur",
         "description": "Développement du système réseau et du gameplay core.",
-        "image": "./src/image/projet1.jpg",
+        "image": "https://github.com/Aragornlegorn/Portfolio/blob/main/src/image/project1.jpg",
         "link": "https://github.com/tonpseudo/projet1"
     }
 ]
