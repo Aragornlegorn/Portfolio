@@ -4,5 +4,11 @@
         "description": "Développement du système réseau et du gameplay core.",
         "image": "image/project1.jpg",
         "link": "https://github.com/tonpseudo/projet1"
+    },
+    {
+        "name": "Potion Shop",
+        "description": "Fabriquant de potion.",
+        "image": "image/project1.jpg",
+        "link": "https://github.com/tonpseudo/projet1"
     }
 ]
