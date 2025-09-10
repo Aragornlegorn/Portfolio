@@ -27,6 +27,7 @@ header h1 {
 
 footer {
     padding: 16px;
+    text-align: center;
     color: #6b7280;
     background-color: var(--background-app-color);
 }

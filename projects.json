@@ -1,14 +1,20 @@
 [
     {
-        "name": "FPS Multijoueur",
-        "description": "Développement du système réseau et du gameplay core.",
+        "name": "ZombieVR",
+        "description": "Plongé·e·s dans les ruines d’un complexe industriel oublié, vous n’avez qu’un objectif : tenir jusqu’au prochain jour. ZombieVR est une expérience de survie en réalité virtuelle où chaque geste compte — changer le chargeur à la main, armer la culasse, vérifier votre équipement — tout se fait physiquement. L’ambiance est sombre et oppressante : un temps couvert, une usine gelée dans l’abandon et des couloirs noyés d’ombres où chaque bruit peut être le dernier.",
         "image": "image/project1.jpg",
-        "link": "https://github.com/tonpseudo/projet1"
+        "link": "https://github.com/Aragornlegorn/ZombieVR"
     },
     {
         "name": "Potion Shop",
         "description": "Fabriquant de potion.",
         "image": "image/project1.jpg",
-        "link": "https://github.com/tonpseudo/projet1"
+        "link": "https://github.com/Aragornlegorn/Projet-PotionShop"
+    },
+    {
+        "name": "Shop Simulator",
+        "description": "Bienvenue dans Shop Simulator, un jeu de gestion au goût acide où diriger une supérette de quartier ne se limite pas à scanner des articles. Les clients passent commande à la fenêtre et attendent — rapides, pressés, parfois pointilleux. À toi d’organiser l’arrière-boutique : remplir les rayons, préparer les commandes dans l’ordre, optimiser tes stations de préparation et garder un œil sur la caisse. Mais la vraie difficulté arrive en fin de semaine : entre les factures d’électricité à régler et la collecte forcée de la mafia locale, chaque décision compte. Tu peux investir dans un meilleur équipement pour gagner du temps, négocier (ou tenter de tricher) avec des fournisseurs, embaucher un(e) commis, ou garder les mains propres — au risque de subir des représailles. Shop Simulator met l’accent sur la pression temporelle, la gestion des priorités et les petits choix moraux qui pèsent lourd.",
+        "image": "image/project1.jpg",
+        "link": "https://github.com/Aragornlegorn/ShopSimulator"
     }
 ]
