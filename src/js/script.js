@@ -11,7 +11,7 @@ async function loadProjects() {
   const container = document.getElementById('projects');
 
   try {
-    const res = await fetch('../json/Projects.json');
+    const res = await fetch('json/projects.json');
     const projects = await res.json();
 
     projects.forEach(project => {
