@@ -19,6 +19,7 @@ function loadProjects() {
                 out += `
                     <div>
                         <h1>${project.name}</h1>
+                        <img src="${project.image}" />
                     </div>
                 `;
             }
