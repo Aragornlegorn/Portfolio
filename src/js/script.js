@@ -11,7 +11,7 @@ async function loadProjects() {
   const container = document.getElementById('projects');
 
   // Récupérer la liste des fichiers JSON depuis le serveur
-  const listRes = await fetch('/projects/list');
+  const listRes = await fetch('../json/projects/list');
   const projectFiles = await listRes.json();
 
   for (const file of projectFiles) {
